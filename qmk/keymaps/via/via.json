@@ -1,0 +1,129 @@
+{
+  "name": "FamiKey",
+  "vendorId": "0xFED0",
+  "productId": "0x0001",
+  "matrix": {
+    "rows": 18,
+    "cols": 4
+  },
+  "layouts": {
+    "keymap": [
+      [
+        {"x": 0.25, "w": 2},
+        "14,0\n\n\n\n\n\n\n\n\nF1",
+        {"w": 2},
+        "12,0\n\n\n\n\n\n\n\n\nF2",
+        {"w": 2},
+        "10,0\n\n\n\n\n\n\n\n\nF3",
+        {"w": 2},
+        "8,0\n\n\n\n\n\n\n\n\nF4",
+        {"w": 2},
+        "6,0\n\n\n\n\n\n\n\n\nF5",
+        {"w": 2},
+        "4,0\n\n\n\n\n\n\n\n\nF6",
+        {"w": 2},
+        "2,0\n\n\n\n\n\n\n\n\nF7",
+        {"w": 2},
+        "0,0\n\n\n\n\n\n\n\n\nF8"
+      ],
+      [
+        {"x": 0.5},
+        "15,1\n\n\n\n\n\n\n\n\n1",
+        "15,3\n\n\n\n\n\n\n\n\n2",
+        "13,3\n\n\n\n\n\n\n\n\n3",
+        "13,1\n\n\n\n\n\n\n\n\nE",
+        "11,1\n\n\n\n\n\n\n\n\n5",
+        "11,2\n\n\n\n\n\n\n\n\nC",
+        "9,1\n\n\n\n\n\n\n\n\n7",
+        "7,3\n\n\n\n\n\n\n\n\n8",
+        "7,1\n\n\n\n\n\n\n\n\n9",
+        "5,3\n\n\n\n\n\n\n\n\n0",
+        "5,1\n\n\n\n\n\n\n\n\nP",
+        "5,2\n\n\n\n\n\n\n\n\n,"
+      ],
+      [
+        {"y": -1, "x": 12.5},
+        "3,1\n\n\n\n\n\n\n\n\n-",
+        "1,3\n\n\n\n\n\n\n\n\nSTOP"
+      ],
+      [
+        {"y": -0.5, "x": 15.75},
+        "16,0\n\n\n\n\n\n\n\n\nHOME",
+        "17,3\n\n\n\n\n\n\n\n\nINS",
+        "17,1\n\n\n\n\n\n\n\n\nDEL"
+      ],
+      [
+        {"y": -0.5, "x": 0.25},
+        "14,2\n\n\n\n\n\n\n\n\nESC",
+        "14,1\n\n\n\n\n\n\n\n\nQ",
+        "12,2\n\n\n\n\n\n\n\n\nW",
+        "13,1\n\n\n\n\n\n\n\n\nE",
+        "10,2\n\n\n\n\n\n\n\n\nR",
+        "10,1\n\n\n\n\n\n\n\n\nT",
+        "8,2\n\n\n\n\n\n\n\n\nY",
+        "8,1\n\n\n\n\n\n\n\n\nU",
+        "6,2\n\n\n\n\n\n\n\n\nI",
+        "6,1\n\n\n\n\n\n\n\n\nO",
+        "5,1\n\n\n\n\n\n\n\n\nP",
+        "0,1\n\n\n\n\n\n\n\n\n@",
+        "1,1\n\n\n\n\n\n\n\n\n[",
+        {"w": 2},
+        "0,2\n\n\n\n\n\n\n\n\nRET"
+      ],
+      [
+        {"y": -0.5, "x": 16.25, "w": 2},
+        "16,2\n\n\n\n\n\n\n\n\nUP"
+      ],
+      [
+        {"y": -0.5, "x": 0.5},
+        "14,3\n\n\n\n\n\n\n\n\nCTRL",
+        "12,3\n\n\n\n\n\n\n\n\nA",
+        "12,1\n\n\n\n\n\n\n\n\nS",
+        "10,3\n\n\n\n\n\n\n\n\nD",
+        "11,0\n\n\n\n\n\n\n\n\nF",
+        "8,1\n\n\n\n\n\n\n\n\nG",
+        "8,3\n\n\n\n\n\n\n\n\nH",
+        "6,3\n\n\n\n\n\n\n\n\nJ",
+        "4,3\n\n\n\n\n\n\n\n\nK",
+        "4,1\n\n\n\n\n\n\n\n\nL",
+        "2,1\n\n\n\n\n\n\n\n\n:",
+        "2,3\n\n\n\n\n\n\n\n\n;",
+        "0,3\n\n\n\n\n\n\n\n\n]",
+        "1,0\n\n\n\n\n\n\n\n\nKANA"
+      ],
+      [
+        {"y": -0.5, "x": 15.25, "w": 2},
+        "16,3\n\n\n\n\n\n\n\n\nLEFT",
+        {"w": 2},
+        "16,1\n\n\n\n\n\n\n\n\nRIGHT"
+      ],
+      [
+        {"y": -0.5, "w": 2},
+        "15,0\n\n\n\n\n\n\n\n\nSHIFT",
+        "13,2\n\n\n\n\n\n\n\n\nZ",
+        "13,0\n\n\n\n\n\n\n\n\nX",
+        "11,2\n\n\n\n\n\n\n\n\nC",
+        "9,2\n\n\n\n\n\n\n\n\nV",
+        "9,0\n\n\n\n\n\n\n\n\nB",
+        "7,2\n\n\n\n\n\n\n\n\nN",
+        "7,0\n\n\n\n\n\n\n\n\nM",
+        "5,2\n\n\n\n\n\n\n\n\n,",
+        "5,0\n\n\n\n\n\n\n\n\n.",
+        "3,2\n\n\n\n\n\n\n\n\n/",
+        "3,0\n\n\n\n\n\n\n\n\n_",
+        {"w": 2},
+        "1,2\n\n\n\n\n\n\n\n\nSHIFT"
+      ],
+      [
+        {"y": -0.5, "x": 16.25, "w": 2},
+        "17,0\n\n\n\n\n\n\n\n\nDOWN"
+      ],
+      [
+        {"y": -0.5, "x": 3},
+        "15,2\n\n\n\n\n\n\n\n\nGRPH",
+        {"w": 8},
+        "17,2\n\n\n\n\n\n\n\n\nSPACE"
+      ]
+    ]
+  }
+}
